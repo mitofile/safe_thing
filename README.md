@@ -11,7 +11,7 @@
 ### The Library and API
 The SAFEthing library is composed of several parts but its core is just a Rust crate with a simple and well defined Rust API.
 
-Internally it contains all the mechanisms to communicate with the SAFE network thru the `safe_client_libs`, abstracting the client application from all of it without the need for the application developer to even understand how the SAFE network works.
+Internally it contains all the mechanisms to communicate with the SAFE network thru the [safe_client_libs](https://github.com/maidsafe/safe_client_libs), abstracting the client application from all of it without the need for the application developer to even understand how the SAFE network works.
 
 In an analogous way as to how the SAFE network itself provides different programming languages bindings, there will be a SAFEthing Rust FFI interface which can be used to interact with the API from any programming language, like C/C++, but also a set of different language bindings so people can develop their SAFEthings software even with JavaScript, Python, Lua, etc.
 
