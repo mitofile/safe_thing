@@ -32,9 +32,9 @@ On the other hand, some attributes could contain dynamic values which are update
 #### Topics
 A SAFEthing can expose a set of topics that other SAFEthings can subcribe to in order to receive notifications upon events.
 
-Different events result in different type of notifications, a topic can describe a certain type of events, depending how the SAFEthing s design to expose them.
+Different events result in different type of notifications, a topic can describe a certain type of events, depending on how the SAFEthing is designed to expose them.
 
-As an example, the temperature sensor can expose a 'temperature change" topic that another SAFEthing can subscribe to and receive noifications upon a temperature change event.
+As an example, the temperature sensor can expose a "temperature change" topic that another SAFEthing can subscribe to and receive notifications upon a temperature change event.
 
 When subscribing to a topic, a set of filters can optionally be provided in order to reduce the notifications to be received to just those which the subscriber is really interested in. E.g. a SAFEthing might be interested in being notified only if the current temperature goes over a threshold.
 
