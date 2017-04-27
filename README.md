@@ -1,7 +1,7 @@
 # SAFEthing Framework
 **S**ecure **A**ccess **F**or **E**very**thing**
 
-### Goals
+### Project Goals
 - Provide IoT software developers with an easy and straight forward way to integrate their IoT devices to the SAFE network without worrying about network, security and/or authentication & authorisation protocols.
 - Create a project which can be used as a knowledge base for developers trying to learn and implement software for the SAFE network.
 - Allow the SAFE network community to participate in a project which creates added value for the SAFE network, and which leads to help promoting it and to achieve mass adoption.
