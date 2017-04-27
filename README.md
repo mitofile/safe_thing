@@ -1,4 +1,4 @@
-# SAFEthing Framework:
+# SAFEthing Framework
 **S**ecure **A**ccess **F**or **E**very**thing**
 
 ### Goals
