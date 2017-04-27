@@ -38,7 +38,7 @@ As an example, the temperature sensor can expose a "temperature change" topic th
 
 When subscribing to a topic, a set of filters can optionally be provided in order to reduce the notifications to be received to just those which the subscriber is really interested in. E.g. a SAFEthing might be interested in being notified only if the current temperature goes over a threshold.
 
-TODO: describe subscribtions and notifications filters & parameters
+TODO: describe subscriptions and notifications filters & parameters
 
 #### Actions
 Another way to interact with a SAFEthing is by requesting an action. The set of actions are usually static but there could be cases that a SAFEthing wants to expose some actions only in certain moments or periods of time.
@@ -50,7 +50,7 @@ The execution of an action is asynchronous. When an action is requested to a SAF
 #### Access Type
 SAFEthing's Attributes, Topics, and Actions, are associated to an Access Type. The Access Type defines the set of SAFEthings that are allow to access the exposed functionality and information.
 
-As an example, the data you send to a SAFEthing printer should be encrypted and available to access by the sender and the printer devices only. Or if you have a set of devices at home that interact among them, you will want that only your devices can see each other's information and functionalities but noone else.
+As an example, the data you send to a SAFEthing printer should be encrypted and available to access by the sender and the printer devices only. Or if you have a set of devices at home that interact among them, you will want that only your devices can see each other's information and functionalities but no one else.
 
 
 ### The Communication Protocol
