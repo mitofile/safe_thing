@@ -1,4 +1,5 @@
-# SAFEthing Framework: **S**ecure **A**ccess **F**or **E**very**thing**
+# SAFEthing Framework:
+**S**ecure **A**ccess **F**or **E**very**thing**
 
 ### Goals
 - Provide IoT software developers with an easy and straight forward way to integrate their IoT devices to the SAFE network without worrying about network, security and/or authentication & authorisation protocols.
